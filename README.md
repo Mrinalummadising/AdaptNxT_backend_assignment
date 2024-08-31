@@ -38,7 +38,7 @@ Enter the city name:
 
 When prompted, enter the name of the city for which you want to fetch the weather data:
 
-    Enter City Name: London
+    Enter City Name: Hyderabad
 
 
 Error Handling
